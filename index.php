@@ -5,6 +5,7 @@ if (isset($_COOKIE['brickplanet_login'])) {
   exit();
 }
 ?>
+
 <div class="position-relative text-center">
   <div class="position-absolute top-0" style="width:100%;height:100%;min-height:700px;opacity:0.75;background-color:#000000;z-index:2;">&nbsp;</div>
   <video id="home-video" autoplay muted loop style="max-height:100%;max-width:100%;min-height:700px;" style="z-index:1;">
